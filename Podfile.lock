@@ -1,0 +1,56 @@
+PODS:
+  - Cartography (4.0.0)
+  - Nimble (8.0.4)
+  - Quick (2.2.0)
+  - ReactorKit (2.0.1):
+    - RxSwift (~> 5.0)
+  - RxBlocking (5.0.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - Stubber (1.5.0)
+  - SwiftLint (0.37.0)
+
+DEPENDENCIES:
+  - Cartography
+  - Nimble
+  - Quick
+  - ReactorKit
+  - RxBlocking
+  - RxCocoa
+  - RxSwift
+  - Stubber
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Cartography
+    - Nimble
+    - Quick
+    - ReactorKit
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Stubber
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Cartography: c5626d29056b20f1e95c017326ee4df57cc39ad8
+  Nimble: 18d5360282923225d62b09d781f63abc1a0111fc
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  ReactorKit: a63c5e11e0fd32d59d672e54178b0ed2876b764b
+  RxBlocking: c5e090f42d046df8b0e7752742510f349963710f
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  Stubber: 6cf1160d37f0d1da7afbe1892f65bb7d5984bba4
+  SwiftLint: c078a14d7d7ade75e5507795d185e3da41d844d2
+
+PODFILE CHECKSUM: 952a11a989a04ea2cb25c574d39e23c3d607c682
+
+COCOAPODS: 1.8.4
